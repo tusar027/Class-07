@@ -1,0 +1,64 @@
+div{
+    background-image: url(img/pic.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+
+h1{
+    color: rgb(67, 152, 221);
+    font-size: 50px;
+    text-align: center;
+    background-color: black;
+    width: 1440px;
+}
+p{
+    color: greenyellow;
+    font-size: 20px;
+    text-align: justify;
+    background-color: black;
+    width: 1290px;  
+}
+div{
+    color: rgba(228, 214, 15, 0.973);;
+    font-size: 50px;
+    text-align: center;
+    background-color: black; 
+}
+h2 section1{
+    text-align: left;
+    color: rgb(255, 47, 92);
+    font-size: 50px;
+    background-color: black; 
+}
+#boxModel{
+    width: 1290px;
+    background-color:rebeccapurple;
+    border-top:10px;
+    border-top-style: groove;
+    border-top-color: blue;
+    
+}
+div{
+    
+    border-style: groove;
+    border-color: chocolate;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+    size: 100px;
+    align:center;
+    text-align:center;
+}
+.section2{
+    border-width: 20px 20px 20px 20px;
+    border-style: groove;
+    border-color: chocolate;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 10px 10px 10px;
+    size: 100px;
+    align:center;
+    text-align:center;
+    
+
+}
